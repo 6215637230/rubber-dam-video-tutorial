@@ -1,0 +1,2 @@
+﻿data_status,n,slopes,residual_df,R_squared,adjusted_R_squared,max_VIF,max_leverage,max_Cooks_distance,cases_Cooks_gt_4_over_n,covariance,reference_distribution
+SIMULATED_NOT_OBSERVED,189,8,180,0.07311999519414947,0.0319253283138895,1.5318211121049168,0.23341413182848636,0.03895128462132336,3,HC3,normal_Wald_asymptotic

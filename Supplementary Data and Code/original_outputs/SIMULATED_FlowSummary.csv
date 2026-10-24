@@ -1,0 +1,5 @@
+﻿data_status,platform,retrieved,duplicates,screened,included,excluded,irrelevant,advertisement_no_instruction,image_only,duration_gt_20_min,primary_teeth_only,non_target_language,inaccessible
+SIMULATED_NOT_OBSERVED,YouTube,200,30,170,48,122,21,10,19,27,19,12,14
+SIMULATED_NOT_OBSERVED,TikTok,200,40,160,42,118,18,13,18,13,22,22,12
+SIMULATED_NOT_OBSERVED,Bilibili,150,25,125,50,75,13,8,13,11,6,8,16
+SIMULATED_NOT_OBSERVED,RedNote,150,30,120,49,71,10,9,13,6,10,14,9

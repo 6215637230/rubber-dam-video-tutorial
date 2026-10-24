@@ -1,0 +1,732 @@
+[
+  {
+    "pilot_id": "V01",
+    "access_log": [
+      {
+        "method": "oembed",
+        "http_status": 200,
+        "bytes": 903
+      },
+      {
+        "method": "watch",
+        "http_status": 200,
+        "bytes": 1481142
+      },
+      {
+        "method": "official_caption_json3",
+        "http_status": 200,
+        "bytes": 0,
+        "at_utc": "2026-10-22T14:03:04.968489+00:00"
+      }
+    ],
+    "access_note": "Official oEmbed/watch metadata succeeded; original timedtext URL returned an empty body, public extracted English caption track later succeeded. No login/cookies used.",
+    "visual_files_inspected": [
+      "frames/w-VesKyomOU/sheets/sheet_1.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_2.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_3.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_4.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_5.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_6.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_7.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_8.jpg",
+      "frames/w-VesKyomOU/sheets/sheet_9.jpg"
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V02",
+    "access_log": [
+      {
+        "method": "oembed",
+        "http_status": 200,
+        "bytes": 851
+      },
+      {
+        "method": "watch",
+        "http_status": 200,
+        "bytes": 1422211
+      },
+      {
+        "method": "official_caption_json3",
+        "http_status": 200,
+        "bytes": 0,
+        "at_utc": "2026-10-22T14:03:04.866861+00:00"
+      }
+    ],
+    "access_note": "Official oEmbed/watch metadata succeeded; original timedtext URL returned an empty body, public extracted English caption track later succeeded. No login/cookies used.",
+    "visual_files_inspected": [
+      "storyboards/hMUv-X9UNgU/board_4.jpg",
+      "storyboards/hMUv-X9UNgU/board_5.jpg",
+      "storyboards/hMUv-X9UNgU/board_10.jpg",
+      "storyboards/hMUv-X9UNgU/board_11.jpg",
+      "storyboards/hMUv-X9UNgU/board_12.jpg",
+      "storyboards/hMUv-X9UNgU/board_13.jpg",
+      "storyboards/hMUv-X9UNgU/board_14.jpg",
+      "storyboards/hMUv-X9UNgU/board_15.jpg"
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V03",
+    "access_log": [
+      {
+        "method": "oembed",
+        "http_status": 200,
+        "bytes": 758
+      },
+      {
+        "method": "watch",
+        "http_status": 200,
+        "bytes": 1379398
+      },
+      {
+        "method": "official_caption_json3",
+        "http_status": 200,
+        "bytes": 0,
+        "at_utc": "2026-10-22T14:03:04.854695+00:00"
+      }
+    ],
+    "access_note": "Official oEmbed/watch metadata succeeded; original timedtext URL returned an empty body, public extracted English caption track later succeeded. No login/cookies used.",
+    "visual_files_inspected": [
+      "storyboards/b9UM62sVRfc/board_0.jpg",
+      "storyboards/b9UM62sVRfc/board_1.jpg",
+      "storyboards/b9UM62sVRfc/board_2.jpg",
+      "storyboards/b9UM62sVRfc/board_3.jpg"
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V04",
+    "access_log": [
+      {
+        "method": "oembed",
+        "http_status": 200,
+        "bytes": 785
+      },
+      {
+        "method": "watch",
+        "http_status": 200,
+        "bytes": 1415542
+      },
+      {
+        "method": "official_caption_json3",
+        "http_status": 200,
+        "bytes": 0,
+        "at_utc": "2026-10-22T14:03:05.315509+00:00"
+      }
+    ],
+    "access_note": "Official oEmbed/watch metadata succeeded; original timedtext URL returned an empty body, public extracted English caption track later succeeded. No login/cookies used.",
+    "visual_files_inspected": [
+      "frames/B5PtkI0kw0k/sheets/sheet_1.jpg",
+      "frames/B5PtkI0kw0k/sheets/sheet_2.jpg",
+      "frames/B5PtkI0kw0k/sheets/sheet_3.jpg",
+      "frames/B5PtkI0kw0k/sheets/sheet_4.jpg",
+      "frames/B5PtkI0kw0k/sheets/sheet_5.jpg",
+      "storyboards/B5PtkI0kw0k/board_0.jpg"
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V05",
+    "access_log": [
+      {
+        "method": "oembed",
+        "http_status": 200,
+        "bytes": 815
+      },
+      {
+        "method": "watch",
+        "http_status": 200,
+        "bytes": 1407016
+      },
+      {
+        "method": "official_caption_json3",
+        "http_status": 200,
+        "bytes": 0,
+        "at_utc": "2026-10-22T14:03:04.858495+00:00"
+      }
+    ],
+    "access_note": "Official oEmbed/watch metadata succeeded; original timedtext URL returned an empty body, public extracted English caption track later succeeded. No login/cookies used.",
+    "visual_files_inspected": [
+      "storyboards/-3WjufNEZPc/board_0.jpg",
+      "storyboards/-3WjufNEZPc/board_1.jpg",
+      "storyboards/-3WjufNEZPc/board_2.jpg",
+      "storyboards/-3WjufNEZPc/board_3.jpg",
+      "storyboards/-3WjufNEZPc/board_4.jpg",
+      "storyboards/-3WjufNEZPc/board_5.jpg",
+      "storyboards/-3WjufNEZPc/board_6.jpg",
+      "storyboards/-3WjufNEZPc/board_7.jpg",
+      "storyboards/-3WjufNEZPc/board_8.jpg",
+      "storyboards/-3WjufNEZPc/board_9.jpg",
+      "storyboards/-3WjufNEZPc/board_10.jpg"
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V06",
+    "access_log": [
+      {
+        "method": "page",
+        "request_url": "https://www.tiktok.com/@drhassanaurag/video/7607104820838796565",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/@drhassanaurag/video/7607104820838796565",
+        "content_type": "text/html",
+        "chars": 1462,
+        "excerpt": "<!DOCTYPE html> <html lang=\"en\">   <head>     <link rel=\"icon\" href=\"data:;base64,=\" />     <script id=\"slardar-config\" type=\"application/json\">       {         \"slardarClient\": \"SlardarWAF\",         \"sdkUrl\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js\",         \"bid\": \"slardar_us_waf\",         \"pid\": \"js-50\",         \"pluginPathPrefix\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk",
+        "body_file": "tiktok_6_page.txt"
+      },
+      {
+        "method": "oembed",
+        "request_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@drhassanaurag/video/7607104820838796565",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@drhassanaurag/video/7607104820838796565",
+        "content_type": "application/json; charset=utf-8",
+        "chars": 542,
+        "excerpt": "{\"version\":\"1.0\",\"type\":\"video\",\"width\":\"325\",\"height\":\"578\",\"html\":\"<iframe height=\\\"578\\\" width=\\\"325\\\" src=\\\"https://www.tiktok.com/player/v1/7607104820838796565?embed_from=oembed&music_info=1&description=1&autoplay=1&muted=1\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share\\\" allowfullscreen loading=\\\"lazy\\\"></iframe>\",\"provider_url\":\"https://www.tiktok.com\",\"provider_name\":\"TikTok\",\"embed_product_id\":\"",
+        "body_file": "tiktok_6_oembed.txt"
+      },
+      {
+        "method": "embed",
+        "request_url": "https://www.tiktok.com/embed/v2/7607104820838796565",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/embed/v2/7607104820838796565",
+        "content_type": "text/html; charset=utf-8",
+        "chars": 314081,
+        "excerpt": "<!doctype html>\n    <html lang=\"en\" dir=\"ltr\" data-e2e=\"src-theme-template-html\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"generator\" content=\"Frontity\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        \n<link data-rh=\"true\" rel=\"shortcut icon\" href=\"https://www.tiktok.com/favicon.ico\" type=\"image/x-icon\" data-e2e=\"src-theme-template-link\"/>\n\n\n<script type=\"application/json\" id=\"pumbaa-rule\">{\"_r\":\"eyJjb29raWUiOnsiYmxvY2tlcnMiOlt7ImNvb",
+        "body_file": "tiktok_6_embed.txt"
+      }
+    ],
+    "media_access": {
+      "status": 200,
+      "bytes": 11809070,
+      "content_type": "video/mp4",
+      "file": "tiktok_6.mp4"
+    },
+    "visual_observations": [
+      {
+        "start_seconds_approx": 3,
+        "end_seconds_approx": 6,
+        "observation": "Tooth positions are marked on the sheet."
+      },
+      {
+        "start_seconds_approx": 7,
+        "end_seconds_approx": 12,
+        "observation": "A punch is used to make separate holes; text identifies a larger hole for the clamp."
+      },
+      {
+        "start_seconds_approx": 16,
+        "end_seconds_approx": 17,
+        "observation": "The on-screen instruction identifies water-based lubricant applied to the sheet."
+      },
+      {
+        "start_seconds_approx": 19,
+        "end_seconds_approx": 22,
+        "observation": "A clamp is loaded into the dam before intraoral placement."
+      },
+      {
+        "start_seconds_approx": 23,
+        "end_seconds_approx": 29,
+        "observation": "The clamp, sheet and frame are placed together; the sheet is released from the clamp wings."
+      },
+      {
+        "start_seconds_approx": 30,
+        "end_seconds_approx": 38,
+        "observation": "Floss is passed through interproximal contacts while the sheet is adjusted around several adjacent teeth."
+      },
+      {
+        "start_seconds_approx": 42,
+        "end_seconds_approx": 44,
+        "observation": "A piece at the sheet edge is cut and used to retain the anterior end of the dam."
+      },
+      {
+        "start_seconds_approx": 45,
+        "end_seconds_approx": 51,
+        "observation": "A hand instrument inverts the sheet around tooth margins; inversion is named on screen."
+      },
+      {
+        "start_seconds_approx": 52,
+        "end_seconds_approx": 63,
+        "observation": "A double self-tightening floss ligature is constructed with two successive knots."
+      },
+      {
+        "start_seconds_approx": 64,
+        "end_seconds_approx": 72,
+        "observation": "The ligature is seated around a tooth, tightened, and excess floss is trimmed."
+      },
+      {
+        "start_seconds_approx": 73,
+        "end_seconds_approx": 79,
+        "observation": "An air-water syringe is used over the isolated field; the sheet and clamp remain in place at the end."
+      }
+    ],
+    "asr_status": "No trustworthy additional procedural speech evidence; no segment is treated as proof of silence",
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V07",
+    "access_log": [
+      {
+        "method": "page",
+        "request_url": "https://www.tiktok.com/@mutia.drg/video/7565018725271768328",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/@mutia.drg/video/7565018725271768328",
+        "content_type": "text/html",
+        "chars": 1462,
+        "excerpt": "<!DOCTYPE html> <html lang=\"en\">   <head>     <link rel=\"icon\" href=\"data:;base64,=\" />     <script id=\"slardar-config\" type=\"application/json\">       {         \"slardarClient\": \"SlardarWAF\",         \"sdkUrl\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js\",         \"bid\": \"slardar_us_waf\",         \"pid\": \"js-50\",         \"pluginPathPrefix\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk",
+        "body_file": "tiktok_7_page.txt"
+      },
+      {
+        "method": "oembed",
+        "request_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@mutia.drg/video/7565018725271768328",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@mutia.drg/video/7565018725271768328",
+        "content_type": "application/json; charset=utf-8",
+        "chars": 542,
+        "excerpt": "{\"version\":\"1.0\",\"type\":\"video\",\"width\":\"325\",\"height\":\"578\",\"html\":\"<iframe height=\\\"578\\\" width=\\\"325\\\" src=\\\"https://www.tiktok.com/player/v1/7565018725271768328?embed_from=oembed&music_info=1&description=1&autoplay=1&muted=1\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share\\\" allowfullscreen loading=\\\"lazy\\\"></iframe>\",\"provider_url\":\"https://www.tiktok.com\",\"provider_name\":\"TikTok\",\"embed_product_id\":\"",
+        "body_file": "tiktok_7_oembed.txt"
+      },
+      {
+        "method": "embed",
+        "request_url": "https://www.tiktok.com/embed/v2/7565018725271768328",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/embed/v2/7565018725271768328",
+        "content_type": "text/html; charset=utf-8",
+        "chars": 311755,
+        "excerpt": "<!doctype html>\n    <html lang=\"en\" dir=\"ltr\" data-e2e=\"src-theme-template-html\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"generator\" content=\"Frontity\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        \n<link data-rh=\"true\" rel=\"shortcut icon\" href=\"https://www.tiktok.com/favicon.ico\" type=\"image/x-icon\" data-e2e=\"src-theme-template-link\"/>\n\n\n<script type=\"application/json\" id=\"pumbaa-rule\">{\"_r\":\"eyJjb29raWUiOnsiYmxvY2tlcnMiOlt7ImNvb",
+        "body_file": "tiktok_7_embed.txt"
+      }
+    ],
+    "media_access": {
+      "status": 200,
+      "bytes": 6780840,
+      "content_type": "video/mp4",
+      "file": "tiktok_7.mp4"
+    },
+    "visual_observations": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 2,
+        "observation": "A clamp is placed around a posterior tooth using forceps before the dam sheet is applied."
+      },
+      {
+        "start_seconds_approx": 3,
+        "end_seconds_approx": 14,
+        "observation": "The sheet is stretched over the already placed clamp; one tooth remains exposed."
+      },
+      {
+        "start_seconds_approx": 15,
+        "end_seconds_approx": 35,
+        "observation": "Floss is manipulated around the isolated tooth and sheet; fingers partially obscure the precise knot and margin relationship."
+      },
+      {
+        "start_seconds_approx": 37,
+        "end_seconds_approx": 43,
+        "observation": "Clamp forceps are used again to adjust the clamp; the clamp remains on the tooth afterwards."
+      },
+      {
+        "start_seconds_approx": 45,
+        "end_seconds_approx": 55,
+        "observation": "The isolated field is rinsed and a hand instrument works near the tooth margin; the sheet and clamp remain in place at the end."
+      }
+    ],
+    "asr_status": "No trustworthy additional procedural speech evidence; no segment is treated as proof of silence",
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V08",
+    "access_log": [
+      {
+        "method": "page",
+        "request_url": "https://www.tiktok.com/@kayllesofiaa/video/7679336642297089297",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/@kayllesofiaa/video/7679336642297089297",
+        "content_type": "text/html",
+        "chars": 1462,
+        "excerpt": "<!DOCTYPE html> <html lang=\"en\">   <head>     <link rel=\"icon\" href=\"data:;base64,=\" />     <script id=\"slardar-config\" type=\"application/json\">       {         \"slardarClient\": \"SlardarWAF\",         \"sdkUrl\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js\",         \"bid\": \"slardar_us_waf\",         \"pid\": \"js-50\",         \"pluginPathPrefix\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk",
+        "body_file": "tiktok_8_page.txt"
+      },
+      {
+        "method": "oembed",
+        "request_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@kayllesofiaa/video/7679336642297089297",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@kayllesofiaa/video/7679336642297089297",
+        "content_type": "application/json; charset=utf-8",
+        "chars": 542,
+        "excerpt": "{\"version\":\"1.0\",\"type\":\"video\",\"width\":\"325\",\"height\":\"578\",\"html\":\"<iframe height=\\\"578\\\" width=\\\"325\\\" src=\\\"https://www.tiktok.com/player/v1/7679336642297089297?embed_from=oembed&music_info=1&description=1&autoplay=1&muted=1\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share\\\" allowfullscreen loading=\\\"lazy\\\"></iframe>\",\"provider_url\":\"https://www.tiktok.com\",\"provider_name\":\"TikTok\",\"embed_product_id\":\"",
+        "body_file": "tiktok_8_oembed.txt"
+      },
+      {
+        "method": "embed",
+        "request_url": "https://www.tiktok.com/embed/v2/7679336642297089297",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/embed/v2/7679336642297089297",
+        "content_type": "text/html; charset=utf-8",
+        "chars": 310942,
+        "excerpt": "<!doctype html>\n    <html lang=\"en\" dir=\"ltr\" data-e2e=\"src-theme-template-html\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"generator\" content=\"Frontity\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        \n<link data-rh=\"true\" rel=\"shortcut icon\" href=\"https://www.tiktok.com/favicon.ico\" type=\"image/x-icon\" data-e2e=\"src-theme-template-link\"/>\n\n\n<script type=\"application/json\" id=\"pumbaa-rule\">{\"_r\":\"eyJjb29raWUiOnsiYmxvY2tlcnMiOlt7ImNvb",
+        "body_file": "tiktok_8_embed.txt"
+      }
+    ],
+    "media_access": {
+      "status": 200,
+      "bytes": 6028573,
+      "content_type": "video/mp4",
+      "file": "tiktok_8.mp4"
+    },
+    "visual_observations": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 2,
+        "observation": "A dental training mannequin and marking template are displayed."
+      },
+      {
+        "start_seconds_approx": 3,
+        "end_seconds_approx": 6,
+        "observation": "A punch, forceps and a winged clamp are shown separately."
+      },
+      {
+        "start_seconds_approx": 7,
+        "end_seconds_approx": 10,
+        "observation": "Floss is attached to the clamp before use."
+      },
+      {
+        "start_seconds_approx": 11,
+        "end_seconds_approx": 16,
+        "observation": "A template is used to mark tooth positions and separate holes are punched in the sheet."
+      },
+      {
+        "start_seconds_approx": 17,
+        "end_seconds_approx": 26,
+        "observation": "The clamp is inserted into the sheet and the sheet is mounted on a frame."
+      },
+      {
+        "start_seconds_approx": 27,
+        "end_seconds_approx": 33,
+        "observation": "The assembled dam is placed on the mannequin and the sheet is released around the clamp and adjacent teeth."
+      },
+      {
+        "start_seconds_approx": 34,
+        "end_seconds_approx": 40,
+        "observation": "Floss passes between contacts around several isolated teeth; the precise gingival inversion is not clearly established in the sampled views."
+      },
+      {
+        "start_seconds_approx": 41,
+        "end_seconds_approx": 44,
+        "observation": "The completed multi-tooth arrangement remains in place; removal is not shown in these sampled views."
+      }
+    ],
+    "asr_status": "No trustworthy additional procedural speech evidence; no segment is treated as proof of silence",
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V09",
+    "access_log": [
+      {
+        "method": "page",
+        "request_url": "https://www.tiktok.com/@drhassanalashhab/video/7643994422102822162",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/@drhassanalashhab/video/7643994422102822162",
+        "content_type": "text/html",
+        "chars": 1462,
+        "excerpt": "<!DOCTYPE html> <html lang=\"en\">   <head>     <link rel=\"icon\" href=\"data:;base64,=\" />     <script id=\"slardar-config\" type=\"application/json\">       {         \"slardarClient\": \"SlardarWAF\",         \"sdkUrl\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js\",         \"bid\": \"slardar_us_waf\",         \"pid\": \"js-50\",         \"pluginPathPrefix\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk",
+        "body_file": "tiktok_9_page.txt"
+      },
+      {
+        "method": "oembed",
+        "request_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@drhassanalashhab/video/7643994422102822162",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@drhassanalashhab/video/7643994422102822162",
+        "content_type": "application/json; charset=utf-8",
+        "chars": 542,
+        "excerpt": "{\"version\":\"1.0\",\"type\":\"video\",\"width\":\"325\",\"height\":\"578\",\"html\":\"<iframe height=\\\"578\\\" width=\\\"325\\\" src=\\\"https://www.tiktok.com/player/v1/7643994422102822162?embed_from=oembed&music_info=1&description=1&autoplay=1&muted=1\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share\\\" allowfullscreen loading=\\\"lazy\\\"></iframe>\",\"provider_url\":\"https://www.tiktok.com\",\"provider_name\":\"TikTok\",\"embed_product_id\":\"",
+        "body_file": "tiktok_9_oembed.txt"
+      },
+      {
+        "method": "embed",
+        "request_url": "https://www.tiktok.com/embed/v2/7643994422102822162",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/embed/v2/7643994422102822162",
+        "content_type": "text/html; charset=utf-8",
+        "chars": 315828,
+        "excerpt": "<!doctype html>\n    <html lang=\"en\" dir=\"ltr\" data-e2e=\"src-theme-template-html\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"generator\" content=\"Frontity\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        \n<link data-rh=\"true\" rel=\"shortcut icon\" href=\"https://www.tiktok.com/favicon.ico\" type=\"image/x-icon\" data-e2e=\"src-theme-template-link\"/>\n\n\n<script type=\"application/json\" id=\"pumbaa-rule\">{\"_r\":\"eyJjb29raWUiOnsiYmxvY2tlcnMiOlt7ImNvb",
+        "body_file": "tiktok_9_embed.txt"
+      }
+    ],
+    "media_access": {
+      "status": 200,
+      "bytes": 1602020,
+      "content_type": "video/mp4",
+      "file": "tiktok_9.mp4"
+    },
+    "visual_observations": [
+      {
+        "start_seconds_approx": 0,
+        "end_seconds_approx": 4,
+        "observation": "A previously placed multi-tooth dam is folded outward and attached to the frame to form a pocket."
+      },
+      {
+        "start_seconds_approx": 5,
+        "end_seconds_approx": 9,
+        "observation": "On-screen text identifies the fold as a way to catch water; the final pocket and isolated teeth are shown."
+      }
+    ],
+    "asr_status": "No trustworthy additional procedural speech evidence; no segment is treated as proof of silence",
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V10",
+    "access_log": [
+      {
+        "method": "page",
+        "request_url": "https://www.tiktok.com/@dr.zarakkhan/video/7610481105132735764",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/@dr.zarakkhan/video/7610481105132735764",
+        "content_type": "text/html",
+        "chars": 1462,
+        "excerpt": "<!DOCTYPE html> <html lang=\"en\">   <head>     <link rel=\"icon\" href=\"data:;base64,=\" />     <script id=\"slardar-config\" type=\"application/json\">       {         \"slardarClient\": \"SlardarWAF\",         \"sdkUrl\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js\",         \"bid\": \"slardar_us_waf\",         \"pid\": \"js-50\",         \"pluginPathPrefix\": \"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk",
+        "body_file": "tiktok_10_page.txt"
+      },
+      {
+        "method": "oembed",
+        "request_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@dr.zarakkhan/video/7610481105132735764",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/oembed?url=https://www.tiktok.com/@dr.zarakkhan/video/7610481105132735764",
+        "content_type": "application/json; charset=utf-8",
+        "chars": 542,
+        "excerpt": "{\"version\":\"1.0\",\"type\":\"video\",\"width\":\"325\",\"height\":\"578\",\"html\":\"<iframe height=\\\"578\\\" width=\\\"325\\\" src=\\\"https://www.tiktok.com/player/v1/7610481105132735764?embed_from=oembed&music_info=1&description=1&autoplay=1&muted=1\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share\\\" allowfullscreen loading=\\\"lazy\\\"></iframe>\",\"provider_url\":\"https://www.tiktok.com\",\"provider_name\":\"TikTok\",\"embed_product_id\":\"",
+        "body_file": "tiktok_10_oembed.txt"
+      },
+      {
+        "method": "embed",
+        "request_url": "https://www.tiktok.com/embed/v2/7610481105132735764",
+        "status": 200,
+        "final_url": "https://www.tiktok.com/embed/v2/7610481105132735764",
+        "content_type": "text/html; charset=utf-8",
+        "chars": 314875,
+        "excerpt": "<!doctype html>\n    <html lang=\"en\" dir=\"ltr\" data-e2e=\"src-theme-template-html\">\n      <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"generator\" content=\"Frontity\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        \n<link data-rh=\"true\" rel=\"shortcut icon\" href=\"https://www.tiktok.com/favicon.ico\" type=\"image/x-icon\" data-e2e=\"src-theme-template-link\"/>\n\n\n<script type=\"application/json\" id=\"pumbaa-rule\">{\"_r\":\"eyJjb29raWUiOnsiYmxvY2tlcnMiOlt7ImNvb",
+        "body_file": "tiktok_10_embed.txt"
+      },
+      {
+        "method": "official_player_page",
+        "request_url": "https://www.tiktok.com/player/v1/7610481105132735764",
+        "status": 200,
+        "result": "HTML shell; no content playback data available",
+        "body_file": "tiktok_10_player.txt"
+      }
+    ],
+    "media_access": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "visual_observations": [],
+    "asr_status": "No trustworthy additional procedural speech evidence; no segment is treated as proof of silence",
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V11",
+    "access_log": [
+      {
+        "tool": "web.run",
+        "action": "Open four canonical pages and exact-ID searches",
+        "result": "Page inaccessible/HTTP412; exact ID quoted search no results. Unquoted searches returned unrelated videos and were not used."
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/web-interface/view API without User-Agent",
+        "result": "All4 HTTP412"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "Official video page with standard Mozilla/5.0 User-Agent",
+        "result": "All4 HTTP200; gzip-decoded initial-state metadata"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/wbi/v2?bvid=...&cid=...",
+        "result": "All4 code0, subtitles=[]"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/playurl?bvid=...&cid=...&qn=16&fnval=0&fourk=0",
+        "result": "All4 code0, one360pstreamURLeach"
+      },
+      {
+        "tool": "urllib.request + imageio_ffmpeg",
+        "action": "Public360pstream retrieval;16kHzmonoWAV extraction;fps1/10frame extraction",
+        "result": "Four fullstreams downloaded, total264sampleframes; all24contact sheets inspected by AI. No accessible API subtitles."
+      },
+      {
+        "tool": "faster-whisper base + AI contextual review",
+        "action": "Read4fullmachine transcripts;comparewithsampledframes;inspect14targetedframesforambiguoussplit-damandholequalitymentions",
+        "result": "Affirmative D9 added forBV1aq4y1Y7W3 andBV1CA4y1S7Mr;D5partialmentionconfirmedBV16xBEYpEz3 at02:09. OverbroadD7/D8candidatesremovedwhereASRclarifieddifferentaction."
+      }
+    ],
+    "asr_review": {
+      "file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1aq4y1Y7W3_audio_asr.json",
+      "text_file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1aq4y1Y7W3_audio_asr.txt",
+      "method": "faster-whisper base multilingual CPU int8",
+      "transcript_status": "UNVERIFIED_MACHINE_TRANSCRIPT",
+      "detected_language": "zh",
+      "review_status": "AI read the full machine transcript and compared content with visual evidence. Chinese speech is largely interpretable in context but technical terms contain frequent phonetic substitutions; no verbatim clinical transcript certified.",
+      "unverified_content_policy": "No clinical accuracy judgments or absence scores inferred from corrupted wording; only contextual positive evidence retained."
+    },
+    "mapping_corrections": [
+      "D8 earlier frame-only candidate removed: ASR clarifies floss is passed through contacts then withdrawn, and frame assembly alone is not evidence of a separate ligature/cord/wedge stabilization technique."
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V12",
+    "access_log": [
+      {
+        "tool": "web.run",
+        "action": "Open four canonical pages and exact-ID searches",
+        "result": "Page inaccessible/HTTP412; exact ID quoted search no results. Unquoted searches returned unrelated videos and were not used."
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/web-interface/view API without User-Agent",
+        "result": "All4 HTTP412"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "Official video page with standard Mozilla/5.0 User-Agent",
+        "result": "All4 HTTP200; gzip-decoded initial-state metadata"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/wbi/v2?bvid=...&cid=...",
+        "result": "All4 code0, subtitles=[]"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/playurl?bvid=...&cid=...&qn=16&fnval=0&fourk=0",
+        "result": "All4 code0, one360pstreamURLeach"
+      },
+      {
+        "tool": "urllib.request + imageio_ffmpeg",
+        "action": "Public360pstream retrieval;16kHzmonoWAV extraction;fps1/10frame extraction",
+        "result": "Four fullstreams downloaded, total264sampleframes; all24contact sheets inspected by AI. No accessible API subtitles."
+      },
+      {
+        "tool": "faster-whisper base + AI contextual review",
+        "action": "Read4fullmachine transcripts;comparewithsampledframes;inspect14targetedframesforambiguoussplit-damandholequalitymentions",
+        "result": "Affirmative D9 added forBV1aq4y1Y7W3 andBV1CA4y1S7Mr;D5partialmentionconfirmedBV16xBEYpEz3 at02:09. OverbroadD7/D8candidatesremovedwhereASRclarifieddifferentaction."
+      }
+    ],
+    "asr_review": {
+      "file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1CA4y1S7Mr_audio_asr.json",
+      "text_file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1CA4y1S7Mr_audio_asr.txt",
+      "method": "faster-whisper base multilingual CPU int8",
+      "transcript_status": "UNVERIFIED_MACHINE_TRANSCRIPT",
+      "detected_language": "zh",
+      "review_status": "AI read the full machine transcript and compared content with visual evidence. Chinese speech is largely interpretable in context but technical terms contain frequent phonetic substitutions; no verbatim clinical transcript certified.",
+      "unverified_content_policy": "No clinical accuracy judgments or absence scores inferred from corrupted wording; only contextual positive evidence retained."
+    },
+    "mapping_corrections": [],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V14",
+    "access_log": [
+      {
+        "tool": "web.run",
+        "action": "Open four canonical pages and exact-ID searches",
+        "result": "Page inaccessible/HTTP412; exact ID quoted search no results. Unquoted searches returned unrelated videos and were not used."
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/web-interface/view API without User-Agent",
+        "result": "All4 HTTP412"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "Official video page with standard Mozilla/5.0 User-Agent",
+        "result": "All4 HTTP200; gzip-decoded initial-state metadata"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/wbi/v2?bvid=...&cid=...",
+        "result": "All4 code0, subtitles=[]"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/playurl?bvid=...&cid=...&qn=16&fnval=0&fourk=0",
+        "result": "All4 code0, one360pstreamURLeach"
+      },
+      {
+        "tool": "urllib.request + imageio_ffmpeg",
+        "action": "Public360pstream retrieval;16kHzmonoWAV extraction;fps1/10frame extraction",
+        "result": "Four fullstreams downloaded, total264sampleframes; all24contact sheets inspected by AI. No accessible API subtitles."
+      },
+      {
+        "tool": "faster-whisper base + AI contextual review",
+        "action": "Read4fullmachine transcripts;comparewithsampledframes;inspect14targetedframesforambiguoussplit-damandholequalitymentions",
+        "result": "Affirmative D9 added forBV1aq4y1Y7W3 andBV1CA4y1S7Mr;D5partialmentionconfirmedBV16xBEYpEz3 at02:09. OverbroadD7/D8candidatesremovedwhereASRclarifieddifferentaction."
+      }
+    ],
+    "asr_review": {
+      "file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1ki421D7nU_audio_asr.json",
+      "text_file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV1ki421D7nU_audio_asr.txt",
+      "method": "faster-whisper base multilingual CPU int8",
+      "transcript_status": "UNVERIFIED_MACHINE_TRANSCRIPT",
+      "detected_language": "zh",
+      "review_status": "AI read the full machine transcript and compared content with visual evidence. Chinese speech is largely interpretable in context but technical terms contain frequent phonetic substitutions; no verbatim clinical transcript certified.",
+      "unverified_content_policy": "No clinical accuracy judgments or absence scores inferred from corrupted wording; only contextual positive evidence retained."
+    },
+    "mapping_corrections": [
+      "D7 earlier candidate removed: observed instrument action releases sheet from wings, but transcript does not establish sealing/inversion content.",
+      "D8 earlier candidate removed: floss is listed as equipment but retained floss/cord/wedge stabilization is not established; frame assembly is logged as placement evidence."
+    ],
+    "full_av_reviewed": false
+  },
+  {
+    "pilot_id": "V15",
+    "access_log": [
+      {
+        "tool": "web.run",
+        "action": "Open four canonical pages and exact-ID searches",
+        "result": "Page inaccessible/HTTP412; exact ID quoted search no results. Unquoted searches returned unrelated videos and were not used."
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/web-interface/view API without User-Agent",
+        "result": "All4 HTTP412"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "Official video page with standard Mozilla/5.0 User-Agent",
+        "result": "All4 HTTP200; gzip-decoded initial-state metadata"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/wbi/v2?bvid=...&cid=...",
+        "result": "All4 code0, subtitles=[]"
+      },
+      {
+        "tool": "urllib.request",
+        "action": "x/player/playurl?bvid=...&cid=...&qn=16&fnval=0&fourk=0",
+        "result": "All4 code0, one360pstreamURLeach"
+      },
+      {
+        "tool": "urllib.request + imageio_ffmpeg",
+        "action": "Public360pstream retrieval;16kHzmonoWAV extraction;fps1/10frame extraction",
+        "result": "Four fullstreams downloaded, total264sampleframes; all24contact sheets inspected by AI. No accessible API subtitles."
+      },
+      {
+        "tool": "faster-whisper base + AI contextual review",
+        "action": "Read4fullmachine transcripts;comparewithsampledframes;inspect14targetedframesforambiguoussplit-damandholequalitymentions",
+        "result": "Affirmative D9 added forBV1aq4y1Y7W3 andBV1CA4y1S7Mr;D5partialmentionconfirmedBV16xBEYpEz3 at02:09. OverbroadD7/D8candidatesremovedwhereASRclarifieddifferentaction."
+      }
+    ],
+    "asr_review": {
+      "file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV16xBEYpEz3_audio_asr.json",
+      "text_file": "D:\\2 教学\\2.6 教学文章项目\\2.6.3 视频网站学习\\4 Frontiers in Medicine\\_1022_video_pilot_work\\BV16xBEYpEz3_audio_asr.txt",
+      "method": "faster-whisper base multilingual CPU int8",
+      "transcript_status": "UNVERIFIED_MACHINE_TRANSCRIPT",
+      "detected_language": "zh",
+      "review_status": "AI read the full machine transcript and compared content with visual evidence. Chinese speech is largely interpretable in context but technical terms contain frequent phonetic substitutions; no verbatim clinical transcript certified.",
+      "unverified_content_policy": "No clinical accuracy judgments or absence scores inferred from corrupted wording; only contextual positive evidence retained."
+    },
+    "mapping_corrections": [],
+    "full_av_reviewed": false
+  }
+]

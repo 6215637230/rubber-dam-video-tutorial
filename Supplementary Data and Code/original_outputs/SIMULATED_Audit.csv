@@ -1,0 +1,29 @@
+﻿data_status,check,passed,detail
+SIMULATED_NOT_OBSERVED,included_189,True,189
+SIMULATED_NOT_OBSERVED,raw_378,True,378
+SIMULATED_NOT_OBSERVED,retrieved_700,True,700
+SIMULATED_NOT_OBSERVED,queries_14_each50,True,14
+SIMULATED_NOT_OBSERVED,log_ids_match_final,True,one included upload per final row
+SIMULATED_NOT_OBSERVED,domain_total_identity,True,1920
+SIMULATED_NOT_OBSERVED,classification_partition,True,all 189 classified
+SIMULATED_NOT_OBSERVED,zero_day_rate,True,SIM-YO-001
+SIMULATED_NOT_OBSERVED,zero_views_zero_rate,True,SIM-YO-002
+SIMULATED_NOT_OBSERVED,missing_views_missing_rate,True,no zero imputation
+SIMULATED_NOT_OBSERVED,engagement_within_views,True,synthetic counts bounded by known views
+SIMULATED_NOT_OBSERVED,all_item_ranges,True,all 41 synthetic items within declared ranges
+SIMULATED_NOT_OBSERVED,AUC_ROC_identity,True,pairwise and trapezoidal AUC match
+SIMULATED_NOT_OBSERVED,all_rows_simulated,True,explicit provenance every row
+SIMULATED_NOT_OBSERVED,flow_YouTube,True,"{'data_status': 'SIMULATED_NOT_OBSERVED', 'platform': 'YouTube', 'retrieved': 200, 'duplicates': 30, 'screened': 170, 'included': 48, 'excluded': 122, 'irrelevant': 21, 'advertisement_no_instruction': 10, 'image_only': 19, 'duration_gt_20_min': 27, 'primary_teeth_only': 19, 'non_target_language': 12, 'inaccessible': 14}"
+SIMULATED_NOT_OBSERVED,flow_TikTok,True,"{'data_status': 'SIMULATED_NOT_OBSERVED', 'platform': 'TikTok', 'retrieved': 200, 'duplicates': 40, 'screened': 160, 'included': 42, 'excluded': 118, 'irrelevant': 18, 'advertisement_no_instruction': 13, 'image_only': 18, 'duration_gt_20_min': 13, 'primary_teeth_only': 22, 'non_target_language': 22, 'inaccessible': 12}"
+SIMULATED_NOT_OBSERVED,flow_Bilibili,True,"{'data_status': 'SIMULATED_NOT_OBSERVED', 'platform': 'Bilibili', 'retrieved': 150, 'duplicates': 25, 'screened': 125, 'included': 50, 'excluded': 75, 'irrelevant': 13, 'advertisement_no_instruction': 8, 'image_only': 13, 'duration_gt_20_min': 11, 'primary_teeth_only': 6, 'non_target_language': 8, 'inaccessible': 16}"
+SIMULATED_NOT_OBSERVED,flow_RedNote,True,"{'data_status': 'SIMULATED_NOT_OBSERVED', 'platform': 'RedNote', 'retrieved': 150, 'duplicates': 30, 'screened': 120, 'included': 49, 'excluded': 71, 'irrelevant': 10, 'advertisement_no_instruction': 9, 'image_only': 13, 'duration_gt_20_min': 6, 'primary_teeth_only': 10, 'non_target_language': 14, 'inaccessible': 9}"
+SIMULATED_NOT_OBSERVED,AUC_has_both_classes,True,"29 positive, 160 negative"
+SIMULATED_NOT_OBSERVED,coherent_HC3_Intercept,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_TikTok_vs_YouTube,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_Bilibili_vs_YouTube,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_RedNote_vs_YouTube,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_log2_duration,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_academic_vs_dentist,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_commercial_vs_dentist,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_other_vs_dentist,True,"same fit, normal reference"
+SIMULATED_NOT_OBSERVED,coherent_HC3_log2_age_bounded_1,True,"same fit, normal reference"

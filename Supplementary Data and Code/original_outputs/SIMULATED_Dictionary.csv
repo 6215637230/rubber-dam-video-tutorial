@@ -1,0 +1,279 @@
+﻿data_status,table,field,description
+SIMULATED_NOT_OBSERVED,Metadata189,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Metadata189,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,Metadata189,platform,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,language,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,source,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,test_url,Reserved example.invalid domain; deliberately not an actual video URL.
+SIMULATED_NOT_OBSERVED,Metadata189,title,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,duration_seconds,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,age_days,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,upload_day_offset,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,extract_day_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,views,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,likes,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,comments,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Metadata189,view_rate_per_100_days,"100*views/max(age_days,1); missing views gives missing rate."
+SIMULATED_NOT_OBSERVED,RawRatings378,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,RawRatings378,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,RawRatings378,rater_id,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,GQS,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN_01,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN_02,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN_03,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN_04,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN_05,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,JAMA_01,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,JAMA_02,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,JAMA_03,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,JAMA_04,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_01,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_02,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_03,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_04,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_05,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_06,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_07,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_08,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_09,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_10,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_11,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_12,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_13,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_01,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_02,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_03,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_04,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,RawRatings378,VIQI_01,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,RawRatings378,VIQI_02,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,RawRatings378,VIQI_03,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,RawRatings378,VIQI_04,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,RawRatings378,D01,Synthetic item rating; allowed 0 to 2; indications
+SIMULATED_NOT_OBSERVED,RawRatings378,D02,Synthetic item rating; allowed 0 to 2; armamentarium
+SIMULATED_NOT_OBSERVED,RawRatings378,D03,Synthetic item rating; allowed 0 to 2; clamp_selection
+SIMULATED_NOT_OBSERVED,RawRatings378,D04,Synthetic item rating; allowed 0 to 2; application
+SIMULATED_NOT_OBSERVED,RawRatings378,D05,Synthetic item rating; allowed 0 to 2; split_dam
+SIMULATED_NOT_OBSERVED,RawRatings378,D06,Synthetic item rating; allowed 0 to 2; isolation_configuration
+SIMULATED_NOT_OBSERVED,RawRatings378,D07,Synthetic item rating; allowed 0 to 2; sealing_inversion
+SIMULATED_NOT_OBSERVED,RawRatings378,D08,Synthetic item rating; allowed 0 to 2; stabilization
+SIMULATED_NOT_OBSERVED,RawRatings378,D09,Synthetic item rating; allowed 0 to 2; troubleshooting
+SIMULATED_NOT_OBSERVED,RawRatings378,D10,Synthetic item rating; allowed 0 to 2; removal
+SIMULATED_NOT_OBSERVED,RawRatings378,mDISCERN,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,JAMA,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_applicable_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_U_score,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_applicable_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,PEMAT_A_score,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,VIQI,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,completeness_total,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RawRatings378,coverage_category,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,FinalScores189,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,FinalScores189,GQS,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN_01,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN_02,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN_03,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN_04,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN_05,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,JAMA_01,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,JAMA_02,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,JAMA_03,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,JAMA_04,Synthetic item rating; allowed 0 to 1
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_01,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_02,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_03,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_04,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_05,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_06,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_07,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_08,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_09,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_10,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_11,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_12,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_13,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_01,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_02,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_03,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_04,Synthetic item rating; allowed 0 to 1; blank means not applicable
+SIMULATED_NOT_OBSERVED,FinalScores189,VIQI_01,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,FinalScores189,VIQI_02,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,FinalScores189,VIQI_03,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,FinalScores189,VIQI_04,Synthetic item rating; allowed 1 to 5
+SIMULATED_NOT_OBSERVED,FinalScores189,D01,Synthetic item rating; allowed 0 to 2; indications
+SIMULATED_NOT_OBSERVED,FinalScores189,D02,Synthetic item rating; allowed 0 to 2; armamentarium
+SIMULATED_NOT_OBSERVED,FinalScores189,D03,Synthetic item rating; allowed 0 to 2; clamp_selection
+SIMULATED_NOT_OBSERVED,FinalScores189,D04,Synthetic item rating; allowed 0 to 2; application
+SIMULATED_NOT_OBSERVED,FinalScores189,D05,Synthetic item rating; allowed 0 to 2; split_dam
+SIMULATED_NOT_OBSERVED,FinalScores189,D06,Synthetic item rating; allowed 0 to 2; isolation_configuration
+SIMULATED_NOT_OBSERVED,FinalScores189,D07,Synthetic item rating; allowed 0 to 2; sealing_inversion
+SIMULATED_NOT_OBSERVED,FinalScores189,D08,Synthetic item rating; allowed 0 to 2; stabilization
+SIMULATED_NOT_OBSERVED,FinalScores189,D09,Synthetic item rating; allowed 0 to 2; troubleshooting
+SIMULATED_NOT_OBSERVED,FinalScores189,D10,Synthetic item rating; allowed 0 to 2; removal
+SIMULATED_NOT_OBSERVED,FinalScores189,mDISCERN,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,JAMA,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_applicable_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_U_score,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_applicable_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,PEMAT_A_score,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,VIQI,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,completeness_total,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FinalScores189,coverage_category,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,ResolutionLog,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,ResolutionLog,item,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,rater1,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,rater2,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,final,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,resolution_mode,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,reviewer,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ResolutionLog,time_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,SearchLog700,record_id,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,platform,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,query_id,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,query,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,rank,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,query_time_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,SearchLog700,test_url,Reserved example.invalid domain; deliberately not an actual video URL.
+SIMULATED_NOT_OBSERVED,SearchLog700,first_record_id,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,screening_outcome,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,primary_exclusion,One simulated primary reason per first-seen rejected record; no historical screening occurred.
+SIMULATED_NOT_OBSERVED,SearchLog700,sponsored,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,counts_in_first50,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,duration_seconds,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,sort_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,location_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,SearchLog700,archive_status,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,QuerySettings14,query_id,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,platform,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,query,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,retrieved,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,session_label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,QuerySettings14,setting,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,FlowSummary,platform,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,retrieved,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,duplicates,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,screened,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,included,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,excluded,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,irrelevant,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,advertisement_no_instruction,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,image_only,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,duration_gt_20_min,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,primary_teeth_only,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,non_target_language,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,FlowSummary,inaccessible,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Descriptive,grouping,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,group,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,measure,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,mean,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,sd,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,q1,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,median,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Descriptive,q3,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,DomainCoverage,domain,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,label,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,n0,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,n1,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,n2,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,any_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,any_proportion,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,any_ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,any_ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,full_proportion,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,full_ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DomainCoverage,full_ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Reliability,measure,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,method,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,estimate,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,ci_method,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Reliability,valid_resamples,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Correlations,family,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,association,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,group,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,rho,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,p_raw,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,bootstrap_valid,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,p_adjusted,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,correction,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Correlations,family_size,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Omnibus,grouping,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,measure,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,H,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,df,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,p_raw,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Omnibus,epsilon_squared,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,grouping,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,measure,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,first,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,second,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,n_first,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,n_second,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,Dunn_z,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,p_raw,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,Cliffs_delta,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,p_BH,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,PairwiseDunn,family_size,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,RegressionHC3,predictor,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,beta,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,HC3_se,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,RegressionHC3,p_normal_Wald,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,ModelSummary,n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,slopes,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,residual_df,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,R_squared,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,adjusted_R_squared,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,max_VIF,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,max_leverage,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,max_Cooks_distance,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,cases_Cooks_gt_4_over_n,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,covariance,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelSummary,reference_distribution,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,video_id,Artificial join key; never a real platform identifier.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,fitted,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,residual,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,leverage,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ModelDiagnostics,Cooks_distance,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,GQS_Crosstab,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,GQS_Crosstab,GQS_score,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,GQS_Crosstab,comprehensive,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,GQS_Crosstab,non_comprehensive,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,GQS_Crosstab,total,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,metric,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,estimate,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,ci_low,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,ci_high,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,DiagnosticAccuracy,method,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ROC_Coordinates,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,ROC_Coordinates,threshold,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ROC_Coordinates,sensitivity,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,ROC_Coordinates,false_positive_rate,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Audit,data_status,Always SIMULATED_NOT_OBSERVED; no real observation.
+SIMULATED_NOT_OBSERVED,Audit,check,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Audit,passed,See generation and statistical methods in README.
+SIMULATED_NOT_OBSERVED,Audit,detail,See generation and statistical methods in README.

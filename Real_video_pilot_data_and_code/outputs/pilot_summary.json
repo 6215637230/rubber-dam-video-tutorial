@@ -1,0 +1,239 @@
+{
+  "audit_date": "2026-10-22",
+  "data_status": "OBSERVED_PUBLIC_VIDEO_EVIDENCE_AI_ASSISTED_NOT_CLINICALLY_VALIDATED",
+  "supplied_entries": 15,
+  "unique_videos": 14,
+  "duplicate_entries": 1,
+  "metadata_available": 14,
+  "content_evidence_available": 13,
+  "content_unavailable": 1,
+  "duration_seconds": {
+    "n": 14,
+    "min": 10,
+    "median": 264.0,
+    "max": 3955,
+    "above_1200": 1
+  },
+  "platforms": {
+    "Bilibili": {
+      "unique": 4,
+      "content_evidence_available": 4
+    },
+    "TikTok": {
+      "unique": 5,
+      "content_evidence_available": 4
+    },
+    "YouTube": {
+      "unique": 5,
+      "content_evidence_available": 5
+    }
+  },
+  "evidence_cells": 140,
+  "evidence_counts": {
+    "E": 82,
+    "U": 48,
+    "X": 10
+  },
+  "clinical_item_scores_available": 0,
+  "complete_clinical_totals_n": 0,
+  "independent_human_rating_pairs": 0,
+  "clinical_agreement": "NOT_ESTIMABLE_NO_HUMAN_PAIRED_RATINGS",
+  "clinical_association_regression_auc": "NOT_RUN_NO_COMPLETED_CLINICAL_SCORES",
+  "domain_counts": [
+    {
+      "domain": 1,
+      "E": 6,
+      "U": 7,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 2,
+      "E": 12,
+      "U": 1,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 3,
+      "E": 9,
+      "U": 4,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 4,
+      "E": 12,
+      "U": 1,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 5,
+      "E": 2,
+      "U": 11,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 6,
+      "E": 13,
+      "U": 0,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 7,
+      "E": 8,
+      "U": 5,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 8,
+      "E": 7,
+      "U": 6,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 9,
+      "E": 7,
+      "U": 6,
+      "X": 1,
+      "clinical_score_n": 0
+    },
+    {
+      "domain": 10,
+      "E": 6,
+      "U": 7,
+      "X": 1,
+      "clinical_score_n": 0
+    }
+  ],
+  "per_video": [
+    {
+      "pilot_id": "V01",
+      "E": 8,
+      "U": 2,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V02",
+      "E": 10,
+      "U": 0,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V03",
+      "E": 5,
+      "U": 5,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V04",
+      "E": 8,
+      "U": 2,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V05",
+      "E": 9,
+      "U": 1,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V06",
+      "E": 5,
+      "U": 5,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V07",
+      "E": 3,
+      "U": 7,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V08",
+      "E": 3,
+      "U": 7,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V09",
+      "E": 2,
+      "U": 8,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V10",
+      "E": 0,
+      "U": 0,
+      "X": 10,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V11",
+      "E": 7,
+      "U": 3,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V12",
+      "E": 8,
+      "U": 2,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V14",
+      "E": 5,
+      "U": 5,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    },
+    {
+      "pilot_id": "V15",
+      "E": 9,
+      "U": 1,
+      "X": 0,
+      "clinical_score_n": 0,
+      "clinical_total": null
+    }
+  ],
+  "python_version": "3.12.14",
+  "checks": {
+    "unique_keys": "PASS",
+    "duplicate_links": "PASS",
+    "domain_grid": "PASS",
+    "evidence_provenance": "PASS",
+    "flag_partition": "PASS",
+    "missing_not_zero": "PASS",
+    "clinical_total_guard": "PASS",
+    "original_simulation_not_imported": "PASS"
+  }
+}

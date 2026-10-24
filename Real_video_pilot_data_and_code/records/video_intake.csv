@@ -1,0 +1,16 @@
+﻿input_entry,canonical_pilot_id,platform,video_id,canonical_url,disposition,duplicate_of_entry,note
+1,V01,YouTube,w-VesKyomOU,https://www.youtube.com/watch?v=w-VesKyomOU,evidence_reviewed,,
+2,V02,YouTube,hMUv-X9UNgU,https://www.youtube.com/watch?v=hMUv-X9UNgU,evidence_reviewed,,
+3,V03,YouTube,b9UM62sVRfc,https://www.youtube.com/watch?v=b9UM62sVRfc,evidence_reviewed,,
+4,V04,YouTube,B5PtkI0kw0k,https://www.youtube.com/watch?v=B5PtkI0kw0k,evidence_reviewed,,
+5,V05,YouTube,-3WjufNEZPc,https://www.youtube.com/watch?v=-3WjufNEZPc,evidence_reviewed,,
+6,V06,TikTok,7607104820838796565,https://www.tiktok.com/@drhassanaurag/video/7607104820838796565,evidence_reviewed,,
+7,V07,TikTok,7565018725271768328,https://www.tiktok.com/@mutia.drg/video/7565018725271768328,evidence_reviewed,,
+8,V08,TikTok,7679336642297089297,https://www.tiktok.com/@kayllesofiaa/video/7679336642297089297,evidence_reviewed,,
+9,V09,TikTok,7643994422102822162,https://www.tiktok.com/@drhassanalashhab/video/7643994422102822162,evidence_reviewed,,
+10,V10,TikTok,7610481105132735764,https://www.tiktok.com/@dr.zarakkhan/video/7610481105132735764,content_unavailable,,Author confirmed retain as content-unavailable
+11,V11,Bilibili,BV1aq4y1Y7W3,https://www.bilibili.com/video/BV1aq4y1Y7W3/,evidence_reviewed,,
+12,V12,Bilibili,BV1CA4y1S7Mr,https://www.bilibili.com/video/BV1CA4y1S7Mr/,evidence_reviewed,,
+13,V12,Bilibili,BV1CA4y1S7Mr,https://www.bilibili.com/video/BV1CA4y1S7Mr/,duplicate,12,Same Bilibili video ID as entry 12
+14,V14,Bilibili,BV1ki421D7nU,https://www.bilibili.com/video/BV1ki421D7nU/,evidence_reviewed,,
+15,V15,Bilibili,BV16xBEYpEz3,https://www.bilibili.com/video/BV16xBEYpEz3/,evidence_reviewed,,

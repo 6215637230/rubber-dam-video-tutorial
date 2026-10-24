@@ -1,0 +1,15 @@
+﻿data_status,query_id,platform,query,retrieved,session_label,setting
+SIMULATED_NOT_OBSERVED,SIM-Q1-1,YouTube,rubber dam,50,SIMULATED_SESSION_1_1,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q1-2,YouTube,rubber dam application,50,SIMULATED_SESSION_1_2,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q1-3,YouTube,dental dam,50,SIMULATED_SESSION_1_3,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q1-4,YouTube,dental isolation,50,SIMULATED_SESSION_1_4,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q2-1,TikTok,rubber dam,50,SIMULATED_SESSION_2_1,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q2-2,TikTok,rubber dam application,50,SIMULATED_SESSION_2_2,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q2-3,TikTok,dental dam,50,SIMULATED_SESSION_2_3,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q2-4,TikTok,dental isolation,50,SIMULATED_SESSION_2_4,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q3-1,Bilibili,橡皮障,50,SIMULATED_SESSION_3_1,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q3-2,Bilibili,橡皮障隔离,50,SIMULATED_SESSION_3_2,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q3-3,Bilibili,口腔隔离,50,SIMULATED_SESSION_3_3,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q4-1,RedNote,橡皮障,50,SIMULATED_SESSION_4_1,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q4-2,RedNote,橡皮障隔离,50,SIMULATED_SESSION_4_2,Artificial ranking; all sponsored slots count toward cap; no real browser or search run
+SIMULATED_NOT_OBSERVED,SIM-Q4-3,RedNote,口腔隔离,50,SIMULATED_SESSION_4_3,Artificial ranking; all sponsored slots count toward cap; no real browser or search run

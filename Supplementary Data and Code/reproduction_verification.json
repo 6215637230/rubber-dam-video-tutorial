@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "numeric_values_compared": 37606,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-10
+}

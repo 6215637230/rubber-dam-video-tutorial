@@ -1,0 +1,12 @@
+{
+  "README.txt": "67708107af0c75f93204a3bd7ddf0e99c2c3790f17755c07f60c0ba325d706ef",
+  "code/pilot_analysis.py": "1d155fd80fad2c4441019c864f6f84fbebfc654fb6969084d49a3cabc1f339d7",
+  "outputs/domain_evidence_counts.csv": "186312df4ede4e2becba7320a34c976d0ea6165daf2942d590ec56be422dacca",
+  "outputs/per_video_summary.csv": "eaa6d6a2e3ca83bb33b9c5a517c15c56352669671e77bc8730e6a42e31a1fa04",
+  "outputs/pilot_summary.json": "2f467a0424c4bbe0f0abc958d9a412e443c343336a69c49aa2c8f3144ac5e731",
+  "provenance/access_and_evidence_log.json": "9c7295b0caf3512781a6646131bbb42a54da18c74334c8b014bbb37f9921fbaf",
+  "records/clinical_rating_template_NOT_OBSERVED.csv": "2a99540b70774ff337e63a55e92dda53fc7f802caa32fdcfb484e63413ffd8f7",
+  "records/domain_evidence.csv": "c98bd60fdd22f5b83c3e6d3c1a2042f9594c6dd2325f54521d4a7edd1aaa4966",
+  "records/video_intake.csv": "568362889ce11d7ec814840fa056720c9de282a00edcb981de431951832573b9",
+  "records/video_metadata.csv": "2c342460fc19b4e40f57b0f6978be7ec9745776ed859249942033f3f7736e545"
+}
